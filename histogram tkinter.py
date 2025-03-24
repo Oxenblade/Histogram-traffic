@@ -5,7 +5,7 @@ root= Tk()
 root.title("Traffic data on Histogram")
 root.iconbitmap("C:/Users/hp/Downloads/traffic data/statistic_9684905.ico")
 
-frame = LabelFrame(root, text= "Histogram....", padx=40, pady=40, relief =SUNKEN)
+frame = LabelFrame(root, text= "Histogram....", padx=40, pady=40, relief =SUNKEN )
 frame.pack(padx=10, pady = 10)
 
 
