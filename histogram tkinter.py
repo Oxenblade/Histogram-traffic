@@ -9,10 +9,10 @@ frame = LabelFrame(root, text= "Histogram....", padx=40, pady=40, relief =SUNKEN
 frame.pack(padx=10, pady = 10)
 
 
-my_img_1 = ImageTk.PhotoImage(Image.open("images/histogram.PNG"))
+#my_img_1 = ImageTk.PhotoImage(Image.open("images/histogram.PNG"))
 
-my_label = Label(frame, image= my_img_1)
-my_label.grid(row=3, column=0, columnspan =3)
+#my_label = Label(frame, image= my_img_1)
+#my_label.grid(row=3, column=0, columnspan =3)
 
 
 
